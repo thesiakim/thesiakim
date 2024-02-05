@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome%20to%20my%20github👋&fontSize=40)
-## 안녕하세요 👋 김시아라고 합니다.
+## 안녕하세요! 김시아라고 합니다.
+<div></div>
 
  ###  🐇 저에 대해 말하자면, </br>
 🌱 ㅇㅇㅇㅇ</br> 
@@ -23,6 +24,8 @@
 |📚 Frameworks, Platforms and Libraries |  <a href="https://github.com/GoldenPearls/SpringEx/tree/master"><img src="https://img.shields.io/badge/springBoot-%236DB33F.svg?style=for-the-badge&logo=springBoot&logoColor=white"></a>|
 | 📥 DB | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=mariadb&logoColor=white"> | 
 |🗄️ Servers | <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> |
+
+<div></div>
 
 ### 📈 my github stats 
 <div style="display: flex;">
