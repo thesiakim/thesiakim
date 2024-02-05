@@ -11,11 +11,11 @@
 🐾 ㅇㅇㅇㅇ</br>
 
 
-<h3> ☁️ SNS List ☁️</h3>
+<!--<h3> ☁️ SNS List ☁️</h3>
 <div style="display: flex; flex-direction: row; ">
    <!--Notion-->
- <!--<a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
-   <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4" />-->
+ <a href="https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4">
+   <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://www.notion.so/bogi-sister-s-a-leisurely-walk-bf9084358fd74367b24c9079a4226008?pvs=4" />
  
   <!--Git Hub-->     
 <a href="https://github.com/GoldenPearls">
@@ -25,7 +25,7 @@
 <a href="https://velog.io/@prettylee620">
    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@siakim/series" /></a>
    
-</div>
+</div>-->
 
 
 ## Tech Stacks
