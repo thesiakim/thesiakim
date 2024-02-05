@@ -28,7 +28,7 @@
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=thesiakim&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" 
        />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenPearls" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiakim" alt="Top Langs" />
 </div>
 
 
